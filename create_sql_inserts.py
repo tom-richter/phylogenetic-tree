@@ -16,8 +16,8 @@ def main():
     names_file = open(NAMES_FILE_PATH, 'r')
     name_lines = names_file.readlines()
 
-    ranks = get_ranks(node_lines)
-    name_classes = get_name_classes(name_lines)
+    ranks = ['no rank', 'superkingdom', 'genus', 'species', 'order', 'family', 'subspecies', 'subfamily', 'strain', 'serogroup', 'biotype', 'tribe', 'phylum', 'class', 'species group', 'forma', 'clade', 'suborder', 'subclass', 'varietas', 'kingdom', 'subphylum', 'forma specialis', 'isolate', 'infraorder', 'superfamily', 'infraclass', 'superorder', 'subgenus', 'superclass', 'parvorder', 'serotype', 'species subgroup', 'subcohort', 'cohort', 'genotype', 'subtribe', 'section', 'series', 'subvariety', 'morph', 'subkingdom', 'superphylum', 'subsection', 'pathogroup']
+    name_classes = ['synonym', 'scientific name', 'blast name', 'genbank common name', 'in-part', 'authority', 'equivalent name', 'includes', 'common name', 'genbank synonym', 'acronym', 'genbank acronym']
 
     with open('output/script.sql', 'w') as f:
         f.write(get_tax_ranks_sql(ranks))
