@@ -1,0 +1,10 @@
+# python
+venv/
+__pycache__/
+
+# editor
+.vscode/
+
+# project
+input/ncib_dumps/
+output/

@@ -1,0 +1,138 @@
+1	|	all	|		|	synonym	|
+1	|	root	|		|	scientific name	|
+131567	|	biota	|		|	synonym	|
+131567	|	cellular organisms	|		|	scientific name	|
+2759	|	Eucarya	|		|	synonym	|
+2759	|	Eucaryotae	|		|	synonym	|
+2759	|	eucaryotes	|		|	genbank common name	|
+2759	|	Eukarya	|		|	synonym	|
+2759	|	Eukaryotae	|		|	synonym	|
+2759	|	Eukaryota	|		|	scientific name	|
+2759	|	eukaryotes	|	eukaryotes <blast name>	|	blast name	|
+2759	|	eukaryotes	|	eukaryotes <common name>	|	common name	|
+33090	|	Chlorobionta Jeffrey, 1982	|		|	authority	|
+33090	|	Chlorobionta	|		|	synonym	|
+33090	|	Chlorophyta/Embryophyta group	|		|	equivalent name	|
+33090	|	chlorophyte/embryophyte group	|		|	equivalent name	|
+33090	|	Chloroplastida Adl et al. 2005	|		|	authority	|
+33090	|	Chloroplastida	|		|	synonym	|
+33090	|	green plants	|	green plants <blast name>	|	blast name	|
+33090	|	green plants	|	green plants <common name>	|	common name	|
+33090	|	Viridiplantae Cavalier-Smith, 1981	|		|	authority	|
+33090	|	Viridiplantae	|		|	scientific name	|
+35493	|	Streptophyta Bremer, 1985	|		|	authority	|
+35493	|	Streptophyta	|		|	scientific name	|
+131221	|	Charophyta/Embryophyta group	|		|	synonym	|
+131221	|	charophyte/embryophyte group	|		|	equivalent name	|
+131221	|	Streptophytina	|		|	scientific name	|
+3193	|	Embryophyta	|		|	scientific name	|
+3193	|	higher plants	|		|	common name	|
+3193	|	land plants	|	land plants <blast name>	|	blast name	|
+3193	|	land plants	|	land plants <common name>	|	common name	|
+3193	|	plants	|		|	common name	|
+58023	|	Tracheophyta	|		|	scientific name	|
+58023	|	Tracheophyta Sinnott ex Cavalier-Smith, 1998	|		|	authority	|
+58023	|	vascular plants	|	vascular plants <blast name>	|	blast name	|
+58023	|	vascular plants	|	vascular plants <common name>	|	common name	|
+78536	|	Euphyllophyta	|		|	scientific name	|
+78536	|	euphyllophytes	|		|	equivalent name	|
+58024	|	seed plants	|	seed plants <blast name>	|	blast name	|
+58024	|	seed plants	|	seed plants <common name>	|	common name	|
+58024	|	Spermatophyta	|		|	scientific name	|
+3398	|	Angiospermae	|		|	synonym	|
+3398	|	angiosperms	|		|	common name	|
+3398	|	flowering plants	|	flowering plants <blast name>	|	blast name	|
+3398	|	flowering plants	|	flowering plants <genbank common name>	|	genbank common name	|
+3398	|	Magnoliophyta	|		|	synonym	|
+3398	|	Magnoliopsida	|		|	scientific name	|
+1437183	|	Mesangiospermae M.J.Donoghue, J.A.Doyle & P.D.Cantino, 2007	|		|	authority	|
+1437183	|	Mesangiospermae	|		|	scientific name	|
+71240	|	dicots	|		|	in-part	|
+71240	|	Dicotyledoneae	|		|	in-part	|
+71240	|	dicotyledons	|		|	in-part	|
+71240	|	eudicots	|		|	blast name	|
+71240	|	eudicotyledons	|		|	scientific name	|
+91827	|	core eudicots	|		|	equivalent name	|
+91827	|	core eudicotyledons	|		|	equivalent name	|
+91827	|	Gunneridae D.E.Soltis, P.S.Soltis & W.S.Judd, 2007	|		|	authority	|
+91827	|	Gunneridae	|		|	scientific name	|
+1437201	|	Pentapetalae D.E.Soltis, P.S.Soltis & W.S.Judd, 2007	|		|	authority	|
+1437201	|	Pentapetalae	|		|	scientific name	|
+71275	|	Rosidae	|		|	in-part	|
+71275	|	rosids	|		|	scientific name	|
+91835	|	eurosids I	|		|	synonym	|
+91835	|	fabids	|		|	scientific name	|
+3744	|	Rhamnales	|		|	includes	|
+3744	|	Rosales Bercht. & J.Presl, 1820	|		|	authority	|
+3744	|	Rosales	|		|	scientific name	|
+3744	|	Rosanae	|		|	includes	|
+3744	|	Urticales	|		|	includes	|
+3745	|	Malaceae Sm., 1903	|		|	authority	|
+3745	|	Malaceae	|		|	synonym	|
+3745	|	Rosaceae Juss., 1789	|		|	authority	|
+3745	|	Rosaceae	|		|	scientific name	|
+3745	|	rose family	|		|	common name	|
+171637	|	Amygdaloideae Arn., 1832	|		|	authority	|
+171637	|	Amygdaloideae	|		|	scientific name	|
+171637	|	Maloideae C.Weber, 1964	|		|	authority	|
+171637	|	Maloideae	|		|	synonym	|
+171637	|	Spiraeoideae	|		|	synonym	|
+721813	|	Maleae	|		|	scientific name	|
+721813	|	Maleae Small, 1933	|		|	authority	|
+721813	|	Pyreae Baill., 1869	|		|	authority	|
+721813	|	Pyreae	|		|	synonym	|
+721813	|	Pyrodae C.S.Campbell et al., 2007	|		|	authority	|
+721813	|	Pyrodae	|		|	in-part	|
+3749	|	Malus	|		|	scientific name	|
+3750	|	apple	|		|	genbank common name	|
+3750	|	apple tree	|		|	common name	|
+3750	|	cultivated apple	|		|	common name	|
+3750	|	Malus communis Desf.	|		|	authority	|
+3750	|	Malus communis	|		|	synonym	|
+3750	|	Malus domestica Borkh., nom. cons. prop.	|		|	authority	|
+3750	|	Malus domestica	|		|	scientific name	|
+3750	|	Malus pumila auct.	|		|	synonym	|
+3750	|	Malus pumila var. domestica (Borkh.) C.K.Schneid.	|		|	authority	|
+3750	|	Malus pumila var. domestica	|		|	synonym	|
+3750	|	Malus sylvestris var. domestica (Borkh.) Mansf.	|		|	authority	|
+3750	|	Malus sylvestris var. domestica	|		|	synonym	|
+3750	|	Malus x domestica	|		|	synonym	|
+3750	|	Pyrus malus L.	|		|	authority	|
+3750	|	Pyrus malus	|		|	synonym	|
+3766	|	pears	|		|	genbank common name	|
+3766	|	Pyrus L., 1753	|		|	authority	|
+3766	|	Pyrus	|		|	scientific name	|
+356590	|	Pyrus communis var. pyraster L.	|		|	authority	|
+356590	|	Pyrus communis var. pyraster	|		|	synonym	|
+356590	|	Pyrus pyraster (L.) Burgsd.	|		|	authority	|
+356590	|	Pyrus pyraster	|		|	scientific name	|
+356590	|	wild pear	|		|	common name	|
+309349	|	Harbin pear	|		|	common name	|
+309349	|	Pyrus ussuriensis Maxim.	|		|	authority	|
+309349	|	Pyrus ussuriensis	|		|	scientific name	|
+309349	|	qiu zi li	|		|	common name	|
+1565113	|	Pyrus boissieriana Buhse	|		|	authority	|
+1565113	|	Pyrus boissieriana	|		|	scientific name	|
+721805	|	Amygdaleae Juss., 1789	|		|	authority	|
+721805	|	Amygdaleae	|		|	scientific name	|
+3754	|	Amygdalus	|		|	includes	|
+3754	|	Amygdalus L., 1753	|		|	authority	|
+3754	|	Armeniaca	|		|	includes	|
+3754	|	Armeniaca Scop., 1754	|		|	authority	|
+3754	|	Cerasus	|		|	includes	|
+3754	|	Cerasus Mill., 1754	|		|	authority	|
+3754	|	Maddenia Hook.f. & Thomson, 1854	|		|	authority	|
+3754	|	Maddenia	|		|	includes	|
+3754	|	Prunus L., 1753	|		|	authority	|
+3754	|	Prunus	|		|	scientific name	|
+3754	|	Prunus subg. Amygdalus (L.) Focke	|		|	authority	|
+3754	|	Prunus subg. Amygdalus	|		|	synonym	|
+3754	|	Prunus subg. Armeniaca (Scop.) Nakai	|		|	authority	|
+3754	|	Prunus subg. Armeniaca	|		|	synonym	|
+3754	|	Prunus subg. Cerasus (Mill.) Focke	|		|	authority	|
+3754	|	Prunus subg. Cerasus	|		|	synonym	|
+3758	|	plum	|		|	genbank common name	|
+3758	|	Prunus domestica L.	|		|	authority	|
+3758	|	Prunus domestica	|		|	scientific name	|
+59303	|	SAG	|		|	acronym	|
+59303	|	Sagiyama Virus	|		|	scientific name	|
